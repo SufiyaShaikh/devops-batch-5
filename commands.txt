@@ -1,5 +1,10 @@
 git init 
-git stat
+git status
+git add
+git rm --cache 
+git commit -m 
+git log
+git restore
 
 
 
